@@ -31,7 +31,7 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="hF8EZlw6mM4Ov6Yik8ateY7bb9YujuHt4UXsppU+6B8=" name="csrf-token" />
+<meta content="lI75wYFk4Gwpdf9cr2g+wFqW/fRQ1suW2ywvhPvFoy8=" name="csrf-token" />
 
     <link href="https://a248.e.akamai.net/assets.github.com/assets/github-3cd5474511c95dff221d37e940ad18715f0749d1.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://a248.e.akamai.net/assets.github.com/assets/github2-c8fae3a887e5e0e51b7fe06f228ba7b53cc45e53.css" media="all" rel="stylesheet" type="text/css" />
@@ -552,7 +552,7 @@ for more details.</p></article>
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2013 <span title="0.04419s from fe13.rs.github.com">GitHub</span>, Inc.</li>
+      <li>&copy; 2013 <span title="0.05738s from fe3.rs.github.com">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
@@ -593,7 +593,7 @@ for more details.</p></article>
     </div>
 
     
-    <span id='server_response_time' data-time='0.04458' data-host='fe13'></span>
+    <span id='server_response_time' data-time='0.05776' data-host='fe3'></span>
     
   </body>
 </html>
